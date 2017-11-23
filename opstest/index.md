@@ -5,3 +5,5 @@
 > ASBDFKOODSHUHRFOWEIU suirhtreo ityhrt j
 
 ***Applies to:** Duet Enterprise for Microsoft SharePoint and SAP*
+
+_***Applies to:** Duet Enterprise for Microsoft SharePoint and SAP_
