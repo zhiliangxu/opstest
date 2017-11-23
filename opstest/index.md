@@ -6,4 +6,4 @@
 
 ***Applies to:** Duet Enterprise for Microsoft SharePoint and SAP*
 
-_***Applies to:** Duet Enterprise for Microsoft SharePoint and SAP_
+_**Applies to:** Duet Enterprise for Microsoft SharePoint and SAP_
