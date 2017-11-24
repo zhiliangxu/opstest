@@ -18,6 +18,8 @@ _**Applies to:** Duet Enterprise for Microsoft SharePoint and SAP_
 
 **Summary: **Learn how to install binary files in Duet Enterprise 2.0, the first stage in an installation of Duet Enterprise 2.0 in a SharePoint Server 2013 environment.
 
+**Summary: **Learn how to install binary files in Duet Enterprise 2.0, the first stage in an installation of Duet Enterprise 2.0 in a SharePoint Server 2013 environment.
+
 **Summary:** Learn how to install binary files in Duet Enterprise 2.0, the first stage in an installation of Duet Enterprise 2.0 in a SharePoint Server 2013 environment.
 
 **Summary:**Learn how to install binary files in Duet Enterprise 2.0, the first stage in an installation of Duet Enterprise 2.0 in a SharePoint Server 2013 environment.
