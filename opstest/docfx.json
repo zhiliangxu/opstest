@@ -36,6 +36,9 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "zhiliaxu-opstest"
+    "dest": "zhiliaxu-opstest",
+    "xrefService": [
+      "https://xref.docs.microsoft.com/query?uid={uid}"
+    ]
   }
 }
