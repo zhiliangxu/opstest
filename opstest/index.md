@@ -11,6 +11,7 @@ _**Applies to:** Duet Enterprise for Microsoft SharePoint and SAP_
 ###  
 
 ###  123
+[String class](xref:System.String)
 
 ###
 
