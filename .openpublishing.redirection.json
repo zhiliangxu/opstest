@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "opstest/index.md",
+      "redirect_url": "/zhiliaxu-docs-archive/index",
+      "redirect_document_id": true
+    }
+  ]
+}
